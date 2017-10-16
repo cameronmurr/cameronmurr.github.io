@@ -1,19 +1,19 @@
 body {
-   background-color: #00ff00;
+   background-color: #0143ad;
 }
 
 h1 {
   font-family: fantasy;
-  color: #16366b;
+  color: #db1818;
   text-align: center;
 }
 
 h2 {
-  font-family: papyrus;
+  font-family: calbri;
   font-size: 20px;
 }
 
 p {
-  font-family: monospace;
+  font-family: calibri;
   color: #ff00ff;
 }
