@@ -1,5 +1,8 @@
 body {
    background-color: #afceff;
+   max-width: 800px;
+   margin-left: auto;
+   margin-right: auto;
 }
 
 h1 {
@@ -11,16 +14,23 @@ h1 {
 h2 {
   font-family: calibri;
   font-size: 20px;
-  margin-top: 100px
+  margin-top: 100px;
+  text-align: center;
 }
 
 h3{
-  margin-top: 30px;
+  margin-top: 50px;
   margin-left: 30px;
+
 }
 
 p {
   font-family: calibri;
+  font-size: 18px;
+  line-height: 2;
+  max-width: 100%;
+  text-align: center;
+
 }
 
 img {
@@ -29,11 +39,16 @@ img {
   margin-right: auto;
   border: 6px solid #ff0000;
   border-radius: 5px;
+  max-width: 100%;
 }
 
 li{
   margin: 20px;
+  font-size: 17px;
+
 }
+
+
 
 table, th, td {
   border: 1px solid black;
