@@ -4,6 +4,7 @@ body {
    margin-left: auto;
    margin-right: auto;
    font-family: 'Droid Serif';
+   background: radial-gradient(circle, #afceff 10%, #e21818 30%, #ffffff);
 }
 
 h1 {
